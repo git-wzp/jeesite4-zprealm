@@ -26,7 +26,7 @@ jdbc:
   driver: com.mysql.jdbc.Driver
   url: jdbc:mysql://127.0.0.1:3306/zprealm?useSSL=true&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull
   username: root
-  password: d46f8f4be909ab945591741c825959a9
+  password: dhhc@2016
   testSql: SELECT 1
 
 #  # Oracle 数据库配置
